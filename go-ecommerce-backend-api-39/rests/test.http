@@ -1,0 +1,6 @@
+### checkstatus by docker
+GET http://localhost:8002/v1/2024/checkStatus
+
+
+### docker compose
+GET http://localhost:8008/v1/2024/checkStatus
